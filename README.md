@@ -15,5 +15,6 @@
  
   **Ссылка на приложение:**
 https://intern.demoshopping.ru/
- **Ссылка на документацию:**
+
+  **Ссылка на документацию:**
   https://intern.demoshopping.ru/api-docs/
