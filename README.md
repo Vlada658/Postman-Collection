@@ -18,3 +18,5 @@ https://intern.demoshopping.ru/
 
   **Ссылка на документацию:**
   https://intern.demoshopping.ru/api-docs/
+
+  Результат: https://www.postman.com/interstellar-star-567784/s-workspace/collection/83vv6ux/demoshopping?action=share&creator=45367901
